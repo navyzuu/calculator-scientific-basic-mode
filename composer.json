@@ -1,0 +1,15 @@
+{
+    "name": "codespace/calculator-scientific-basic-mode",
+    "autoload": {
+        "psr-4": {
+            "Codespace\\CalculatorScientificBasicMode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "navyzuu",
+            "email": "navyzaz17@gmail.com"
+        }
+    ],
+    "require": {}
+}
