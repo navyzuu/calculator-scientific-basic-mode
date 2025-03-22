@@ -4,7 +4,7 @@ This project is an experimental calculator with **two modes**:
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/fa2e02c8-fa4e-420d-8d52-29610881cf53" width="200">
-  <img src="https://github.com/user-attachments/assets/7387fed3-10bd-4697-aea3-1f30177a1523" width="200">
+  <img src="https://github.com/user-attachments/assets/7387fed3-10bd-4697-aea3-1f30177a1523" width="232">
 </div>  
 
 ## ✨ Features  
